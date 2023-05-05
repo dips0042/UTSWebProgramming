@@ -1,0 +1,35 @@
+#stars {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #977D35;
+  }
+
+.max-width-logo {
+  max-width: 20%;
+}
+
+.buy-btn {
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin-top: 0;
+  margin-bottom: 5%;
+}
+
+.confirm-buy-btn {
+  background-color: #C6A961;
+  border-color: #C6A961;
+  color: white;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin: 0;
+}
+
+.confirm-cancel-btn {
+  border-color: #C6A961;
+  background-color: white;
+  color: #C6A961;
+  padding-top: 1%;
+  padding-bottom: 2%;
+  margin: 0 2%;
+}
